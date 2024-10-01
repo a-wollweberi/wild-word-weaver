@@ -50,8 +50,8 @@ const WildWordWeaver: React.FC = () => {
         )}
       </div>
       <footer className="w-full text-center py-4 text-gray-500 text-sm sm:text-base">
-        Developed by <a href="https://github.com/dancingparakeet" className='underline' >
-          dancingparakeet
+        Developed by <a href="https://github.com/a-wollweberi" className='underline' >
+          a-wollweberi
 
         </a>🦜
       </footer>
